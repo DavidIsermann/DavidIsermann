@@ -5,7 +5,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Dual Student at FHDW Paderborn for Diebold Nixdorf 
+- :school: I am a Dual Student at FHDW Paderborn for Diebold Nixdorf. 
 - :student: I’m currently studying: `Business Informatics`.
 
 ## 🛠️ My Skills
